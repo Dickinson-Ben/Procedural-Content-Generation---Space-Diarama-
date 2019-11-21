@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGC Space Diarama.Plugins", "PGC Space Diarama.Plugins.csproj", "{DBB6E2C3-A8A3-5D41-32BF-33BBDF590932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGC Space Diarama", "PGC Space Diarama.csproj", "{68D1BED6-E624-7B99-3A7B-7C2E35C64FCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGC Space Diarama.Editor.Plugins", "PGC Space Diarama.Editor.Plugins.csproj", "{6428DA18-8900-0F6E-6E7D-F33E6D8D627E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBB6E2C3-A8A3-5D41-32BF-33BBDF590932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB6E2C3-A8A3-5D41-32BF-33BBDF590932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB6E2C3-A8A3-5D41-32BF-33BBDF590932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB6E2C3-A8A3-5D41-32BF-33BBDF590932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D1BED6-E624-7B99-3A7B-7C2E35C64FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D1BED6-E624-7B99-3A7B-7C2E35C64FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D1BED6-E624-7B99-3A7B-7C2E35C64FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D1BED6-E624-7B99-3A7B-7C2E35C64FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6428DA18-8900-0F6E-6E7D-F33E6D8D627E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6428DA18-8900-0F6E-6E7D-F33E6D8D627E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6428DA18-8900-0F6E-6E7D-F33E6D8D627E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6428DA18-8900-0F6E-6E7D-F33E6D8D627E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
